@@ -1,0 +1,16 @@
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\bin\Debug\ENCHANTCMDGENERATE_WPFAPP.exe.config
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\bin\Debug\ENCHANTCMDGENERATE_WPFAPP.exe
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\bin\Debug\ENCHANTCMDGENERATE_WPFAPP.pdb
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\MECG.csproj.AssemblyReference.cache
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\MECG.csproj.SuggestedBindingRedirects.cache
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\MainWindow.g.cs
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\App.g.cs
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\ENCHANTCMDGENERATE_WPFAPP_MarkupCompile.cache
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\ENCHANTCMDGENERATE_WPFAPP_MarkupCompile.lref
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\MainWindow.baml
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\ENCHANTCMDGENERATE_WPFAPP.g.resources
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\ENCHANTCMDGENERATE_WPFAPP.Properties.Resources.resources
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\MECG.csproj.GenerateResource.cache
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\MECG.csproj.CoreCompileInputs.cache
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\ENCHANTCMDGENERATE_WPFAPP.exe
+G:\GITHUBDESKTOP\Minecraft-Enchant-CMD-GENER\obj\Debug\ENCHANTCMDGENERATE_WPFAPP.pdb
