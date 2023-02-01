@@ -1,0 +1,21 @@
+﻿<Window x:Class="ENCHANTCMDGENERATE_WPFAPP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ENCHANTCMDGENERATE_WPFAPP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="ITEMID&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="label_Copy" Content="LEVEL&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="label_Copy1" Content="ENCHID" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="label_Copy2" Content="NUM&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Width="80"/>
+        <TextBox x:Name="ITEMID" HorizontalAlignment="Left" Margin="90,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="480"/>
+        <TextBox x:Name="LEVEL" HorizontalAlignment="Left" Margin="90,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="480"/>
+        <TextBox x:Name="ENCHID" HorizontalAlignment="Left" Margin="90,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="480"/>
+        <TextBox x:Name="NUM" HorizontalAlignment="Left" Margin="90,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="480"/>
+        <Button x:Name="button" Content="ADD&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,141,0,0" VerticalAlignment="Top" Width="270" Height="19" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="GEN" HorizontalAlignment="Left" Margin="300,141,0,0" VerticalAlignment="Top" Width="270" Click="button_Copy_Click"/>
+    </Grid>
+</Window>

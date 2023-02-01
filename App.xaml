@@ -1,0 +1,9 @@
+﻿<Application x:Class="ENCHANTCMDGENERATE_WPFAPP.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ENCHANTCMDGENERATE_WPFAPP"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
